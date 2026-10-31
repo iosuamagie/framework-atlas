@@ -1,0 +1,26 @@
+# Secrete (mereu)
+.env
+.env.*
+*.key
+*.pem
+secrets/
+data/
+*.wav
+*.zip
+
+# Dependențe și build-uri
+node_modules/
+__pycache__/
+.venv/
+vendor/
+target/
+build/
+dist/
+.next/
+out/
+*.log
+
+# Editor / sistem
+.idea/
+.DS_Store
+Thumbs.db
