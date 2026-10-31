@@ -1,9 +1,13 @@
-# Demo
+# Demo: <Nume framework>
 
-Mini-aplicație „todo” care respectă `integrations/todo-api.md`.
+Implementează **Todo API v1** (și v2 când e gata) din [`integrations/todo-api.md`](../../../integrations/todo-api.md).
 
-## Cum o pornesc
+## Cum îl pornesc
+```bash
+# de completat
+```
 
+## Cum rulez testele
 ```bash
 # de completat
 ```
